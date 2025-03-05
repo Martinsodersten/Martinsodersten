@@ -46,3 +46,6 @@
   </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/martinsodersten/martinsodersten/output/snake.svg" alt="Snake animation" />
+
+###
