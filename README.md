@@ -14,6 +14,8 @@
 
 ###
 
+<h1>Tech stack 👨‍💻</h1>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="22" />
@@ -41,6 +43,8 @@
 </div>
 
 ###
+
+<h1>Contact 👋</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/martin-s%C3%B6dersten-78a974171/" target="_blank">
